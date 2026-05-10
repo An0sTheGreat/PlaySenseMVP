@@ -30,4 +30,8 @@
 ## 📸 Screenshots
 
 ![PlaySense Assist](assets/screenshots/assist-page.png)
-![PlaySense Settings](assets/screenshots/settings.png)
+---
+![PlaySense Settings](assets/screenshots/settings-page.png)
+
+
+---
