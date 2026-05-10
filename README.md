@@ -26,10 +26,8 @@
 
 ---
 
+
 ## 📸 Screenshots
 
-Add screenshots here later:
-
-```md
-![PlaySense Assist](assets/screenshots/assist.png)
+![PlaySense Assist](assets/screenshots/assist-page.png)
 ![PlaySense Settings](assets/screenshots/settings.png)
